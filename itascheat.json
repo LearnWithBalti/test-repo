@@ -1,26 +1,7 @@
 {
   "version": "1",
   "categories": [
-    {
-      "name": "Bike",
-      "imageUrl": "https://i.postimg.cc/m2s9dDRt/kawasakih2r208.jpg",
-      "cheats": [
-        { "name": "Splendor", "code": "#201", "imageUrl": "https://i.postimg.cc/HkS7s9MX/splendor.jpg" },
-        { "name": "Super Splendor", "code": "#202", "imageUrl": "https://i.postimg.cc/QMHKBKg7/super_Splendor202.jpg" },
-        { "name": "Pulsar 125", "code": "#203", "imageUrl": "https://i.postimg.cc/Ghxy6ChJ/pulsar125203.jpg" },
-        { "name": "Pulsar 150", "code": "#204", "imageUrl": "https://i.postimg.cc/fRW9NrJP/pulsar150204.jpg" },
-        { "name": "Royal Enfield Classic", "code": "#205", "imageUrl": "https://i.postimg.cc/L8yZ63PJ/royal_Enfield_Classic205.jpg" },
-        { "name": "KTM Duke 125", "code": "#206", "imageUrl": "https://i.postimg.cc/NfkHZcfT/ktm_Duke125206.jpg" },
-        { "name": "KTM RC 200", "code": "#207", "imageUrl": "https://i.postimg.cc/yYyZ2HYc/ktmrc200207.jpg" },
-        { "name": "Kawasaki H2R", "code": "#208", "imageUrl": "https://i.postimg.cc/m2s9dDRt/kawasakih2r208.jpg" },
-        { "name": "Hayabusa", "code": "#209", "imageUrl": "https://i.postimg.cc/bNhn6J8G/hayabusa209.jpg" },
-        { "name": "Kawasaki H2R Yellow", "code": "#210", "imageUrl": "https://i.postimg.cc/PrjD6xhC/kawasakih2ryellow210.jpg" },
-        { "name": "Pulsar RS 200", "code": "#211", "imageUrl": "https://i.postimg.cc/g2cZWTnT/pulsarrs200211.jpg" },
-        { "name": "Duke 200", "code": "#212", "imageUrl": "https://i.postimg.cc/02sStQxy/Duke200212.jpg" },
-        { "name": "KTM", "code": "#213", "imageUrl": "https://i.postimg.cc/wTQmnpTs/ktm213.jpg" },
-        { "name": "Royal Enfield Bullet", "code": "#214", "imageUrl": "https://i.postimg.cc/Gm3yC54d/royal_Enfieldbullet214.jpg" }
-      ]
-    },
+ 
     {
       "name": "Car",
       "imageUrl": "https://i.postimg.cc/Ss44BwKn/nissan_GTR313.jpg",
@@ -43,18 +24,27 @@
         { "name": "Police Car", "code": "#100", "imageUrl": "https://i.postimg.cc/DZhh9tzJ/police_Car100.jpg" }
       ]
     },
-    {
-      "name": "Other",
-      "imageUrl": "https://i.postimg.cc/RV6YTgSz/rikshaw401.jpg",
+       {
+      "name": "Bike",
+      "imageUrl": "https://i.postimg.cc/m2s9dDRt/kawasakih2r208.jpg",
       "cheats": [
-        { "name": "Auto Rickshaw", "code": "#401", "imageUrl": "https://i.postimg.cc/RV6YTgSz/rikshaw401.jpg" },
-        { "name": "Tractor", "code": "#402", "imageUrl": "https://i.postimg.cc/VLrhFKfr/tractor402.jpg" },
-        { "name": "Truck", "code": "#403", "imageUrl": "https://i.postimg.cc/rFBPZ5s8/truck403.jpg" },
-        { "name": "Bus", "code": "#404", "imageUrl": "https://i.postimg.cc/vHgKv0Qk/bus404.jpg" },
-        { "name": "Cycle 1", "code": "#405", "imageUrl": "https://i.postimg.cc/Fsd6xT92/cycle1405.jpg" },
-        { "name": "Cycle 2", "code": "#406", "imageUrl": "https://i.postimg.cc/Gh8fjXL0/cycle2406.jpg" }
+        { "name": "Splendor", "code": "#201", "imageUrl": "https://i.postimg.cc/HkS7s9MX/splendor.jpg" },
+        { "name": "Super Splendor", "code": "#202", "imageUrl": "https://i.postimg.cc/QMHKBKg7/super_Splendor202.jpg" },
+        { "name": "Pulsar 125", "code": "#203", "imageUrl": "https://i.postimg.cc/Ghxy6ChJ/pulsar125203.jpg" },
+        { "name": "Pulsar 150", "code": "#204", "imageUrl": "https://i.postimg.cc/fRW9NrJP/pulsar150204.jpg" },
+        { "name": "Royal Enfield Classic", "code": "#205", "imageUrl": "https://i.postimg.cc/L8yZ63PJ/royal_Enfield_Classic205.jpg" },
+        { "name": "KTM Duke 125", "code": "#206", "imageUrl": "https://i.postimg.cc/NfkHZcfT/ktm_Duke125206.jpg" },
+        { "name": "KTM RC 200", "code": "#207", "imageUrl": "https://i.postimg.cc/yYyZ2HYc/ktmrc200207.jpg" },
+        { "name": "Kawasaki H2R", "code": "#208", "imageUrl": "https://i.postimg.cc/m2s9dDRt/kawasakih2r208.jpg" },
+        { "name": "Hayabusa", "code": "#209", "imageUrl": "https://i.postimg.cc/bNhn6J8G/hayabusa209.jpg" },
+        { "name": "Kawasaki H2R Yellow", "code": "#210", "imageUrl": "https://i.postimg.cc/PrjD6xhC/kawasakih2ryellow210.jpg" },
+        { "name": "Pulsar RS 200", "code": "#211", "imageUrl": "https://i.postimg.cc/g2cZWTnT/pulsarrs200211.jpg" },
+        { "name": "Duke 200", "code": "#212", "imageUrl": "https://i.postimg.cc/02sStQxy/Duke200212.jpg" },
+        { "name": "KTM", "code": "#213", "imageUrl": "https://i.postimg.cc/wTQmnpTs/ktm213.jpg" },
+        { "name": "Royal Enfield Bullet", "code": "#214", "imageUrl": "https://i.postimg.cc/Gm3yC54d/royal_Enfieldbullet214.jpg" }
       ]
     },
+    
     {
       "name": "NPC",
       "imageUrl": "https://i.postimg.cc/vmrFt3vg/npc1121.jpg",
@@ -68,7 +58,7 @@
         { "name": "NPC 4", "code": "#124", "imageUrl": "https://i.postimg.cc/QMQGJ0qT/npc4124.jpg" }
       ]
     },
-    {
+     {
       "name": "Special",
       "imageUrl": "https://i.postimg.cc/fy0vYgch/special.jpg",
       "cheats": [
@@ -79,6 +69,19 @@
         { "name": "Toggle Rain", "code": "#111", "imageUrl": "https://i.postimg.cc/bdc9gHg8/toggle_Rain111.jpg" },
         { "name": "Explode All Vehicles", "code": "#999", "imageUrl": "https://i.postimg.cc/mkFS76QJ/explode999.jpg" }
       ]
+    },
+    {
+      "name": "Other",
+      "imageUrl": "https://i.postimg.cc/RV6YTgSz/rikshaw401.jpg",
+      "cheats": [
+        { "name": "Auto Rickshaw", "code": "#401", "imageUrl": "https://i.postimg.cc/RV6YTgSz/rikshaw401.jpg" },
+        { "name": "Tractor", "code": "#402", "imageUrl": "https://i.postimg.cc/VLrhFKfr/tractor402.jpg" },
+        { "name": "Truck", "code": "#403", "imageUrl": "https://i.postimg.cc/rFBPZ5s8/truck403.jpg" },
+        { "name": "Bus", "code": "#404", "imageUrl": "https://i.postimg.cc/vHgKv0Qk/bus404.jpg" },
+        { "name": "Cycle 1", "code": "#405", "imageUrl": "https://i.postimg.cc/Fsd6xT92/cycle1405.jpg" },
+        { "name": "Cycle 2", "code": "#406", "imageUrl": "https://i.postimg.cc/Gh8fjXL0/cycle2406.jpg" }
+      ]
     }
+   
   ]
 }
