@@ -1,0 +1,84 @@
+{
+  "version": "1",
+  "categories": [
+    {
+      "name": "Bike",
+      "imageUrl": "",
+      "cheats": [
+        { "name": "Splendor", "code": "#201", "imageUrl": "" },
+        { "name": "Super Splendor", "code": "#202", "imageUrl": "" },
+        { "name": "Pulsar 125", "code": "#203", "imageUrl": "" },
+        { "name": "Pulsar 150", "code": "#204", "imageUrl": "" },
+        { "name": "Royal Enfield Classic", "code": "#205", "imageUrl": "" },
+        { "name": "KTM Duke 125", "code": "#206", "imageUrl": "" },
+        { "name": "KTM RC 200", "code": "#207", "imageUrl": "" },
+        { "name": "Kawasaki H2R", "code": "#208", "imageUrl": "" },
+        { "name": "Hayabusa", "code": "#209", "imageUrl": "" },
+        { "name": "Kawasaki H2R Yellow", "code": "#210", "imageUrl": "" },
+        { "name": "Pulsar RS 200", "code": "#211", "imageUrl": "" },
+        { "name": "Duke 200", "code": "#212", "imageUrl": "" },
+        { "name": "KTM", "code": "#213", "imageUrl": "" },
+        { "name": "Royal Enfield Bullet", "code": "#214", "imageUrl": "" }
+      ]
+    },
+    {
+      "name": "Car",
+      "imageUrl": "",
+      "cheats": [
+        { "name": "Swift", "code": "#301", "imageUrl": "" },
+        { "name": "Wagon", "code": "#302", "imageUrl": "" },
+        { "name": "Bolero", "code": "#303", "imageUrl": "" },
+        { "name": "Scorpio", "code": "#304", "imageUrl": "" },
+        { "name": "Fortuner", "code": "#305", "imageUrl": "" },
+        { "name": "Thar", "code": "#306", "imageUrl": "" },
+        { "name": "Porsche", "code": "#307", "imageUrl": "" },
+        { "name": "Golden Porsche", "code": "#308", "imageUrl": "" },
+        { "name": "Golden Thar", "code": "#309", "imageUrl": "" },
+        { "name": "Golden Fortuner", "code": "#310", "imageUrl": "" },
+        { "name": "Range Rover", "code": "#311", "imageUrl": "" },
+        { "name": "Thar Open", "code": "#312", "imageUrl": "" },
+        { "name": "Nissan GTR", "code": "#313", "imageUrl": "" },
+        { "name": "Ferrari", "code": "#314", "imageUrl": "" },
+        { "name": "Lamborghini", "code": "#315", "imageUrl": "" },
+        { "name": "Police Car", "code": "#100", "imageUrl": "" }
+      ]
+    },
+    {
+      "name": "Other",
+      "imageUrl": "",
+      "cheats": [
+        { "name": "Auto Rickshaw", "code": "#401", "imageUrl": "" },
+        { "name": "Tractor", "code": "#402", "imageUrl": "" },
+        { "name": "Truck", "code": "#403", "imageUrl": "" },
+        { "name": "Bus", "code": "#404", "imageUrl": "" },
+        { "name": "Cycle 1", "code": "#405", "imageUrl": "" },
+        { "name": "Cycle 2", "code": "#406", "imageUrl": "" }
+      ]
+    },
+    {
+      "name": "NPC",
+      "imageUrl": "",
+      "cheats": [
+        { "name": "Police 1", "code": "#101", "imageUrl": "" },
+        { "name": "Police 2", "code": "#102", "imageUrl": "" },
+        { "name": "Police 3", "code": "#103", "imageUrl": "" },
+        { "name": "NPC 1", "code": "#121", "imageUrl": "" },
+        { "name": "NPC 2", "code": "#122", "imageUrl": "" },
+        { "name": "NPC 3", "code": "#123", "imageUrl": "" },
+        { "name": "NPC 4", "code": "#124", "imageUrl": "" }
+      ]
+    },
+    {
+      "name": "Special",
+      "imageUrl": "",
+      "cheats": [
+        { "name": "Infinite Health", "code": "#000", "imageUrl": "" },
+        { "name": "Never Wanted", "code": "#001", "imageUrl": "" },
+        { "name": "Super Run", "code": "#002", "imageUrl": "" },
+        { "name": "Super Jump", "code": "#003", "imageUrl": "" },
+        { "name": "Toggle Rain", "code": "#111", "imageUrl": "" },
+        { "name": "Explode All Vehicles", "code": "#999", "imageUrl": "" }
+      ]
+    }
+  ]
+}
